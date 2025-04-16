@@ -123,6 +123,39 @@ Quickly automate all of the above with:
 chmod +x pii_hunter.sh
 ./pii_hunter.sh http://target.com
 ```
+🔍 Example Output:
+```
+[*] Scanning files for PII indicators (email, address, SSN, card)...
+downloads/users.csv: john.doe@example.com, 1234-5678-9999-0000, 90210
+downloads/invoice_2023.pdf: Jane Smith, 1 Main Street, SSN: 123-45-6789
+```
+🔥 Found sensitive data? You just earned yourself a bounty.
+
+🧠 Script Preview:
+```
+#!/bin/bash
+# THEMSTER PII HUNTER - Recon & Leak Detection
+
+domain=$1
+mkdir -p pii-hunter/$domain && cd pii-hunter/$domain
+gau $domain | tee all_urls.txt
+cat all_urls.txt | grep -Ei '\.pdf|\.csv|\.zip|\.xls' > sensitive_files.txt
+cat all_urls.txt | grep -Ei 'billing|invoice|account|contract|statement' > pii_paths.txt
+cat pii_paths.txt | httpx -silent -mc 200 > live_pii.txt
+mkdir -p downloads
+while read url; do curl -s "$url" -o downloads/$(basename "$url"); done < sensitive_files.txt
+grep -E -i -r 'email|@|address|ssn|iban|card|zip|payment|name|phone' downloads/ > suspected_pii.txt
+```
+💥 Why It Matters:
+This tool is a goldmine when doing:
+
+🧨 Recon for bug bounty
+
+📦 Testing for accidental data exposures
+
+🛡️ Compliance checks before public release
+
+Use it ethically. Report leaks. Collect bounties. Win.
 It performs:
 
 🕸️ Crawling archived URLs with gau
