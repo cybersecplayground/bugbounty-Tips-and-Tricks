@@ -1,5 +1,5 @@
 ### 🔍 Full Blueprint:
-> How to Hunt & Reproduce PII/Data Leaks Like a Pro Whether you're chasing juicy bounties or performing red team recon, this post gives you a battle-tested strategy to detect PII leaks, exposed invoices, weak APIs, DOM XSS, and more — step-by-step.
+> How to Hunt & Reproduce PII/Data Leaks Like a Pro Whether you're chasing juicy bounties or performing red team recon, this post gives you a battle-tested strategy to detect PII leaks, exposed invoices, weak APIs, DOM XSS, and more — step-by-step ...
 - https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/PII/Reproduce%20PII%20Data%20Leaks%20Like%20a%20Pro.md
 
 ### pii_hunter.sh
