@@ -58,5 +58,5 @@ LFI can lead to:
 
 📢 Join us for daily hunting tricks and recon scripts → [@cybersecplayground](https://t.me/cybersecplayground)
 
-❤️ Like & Share if you found this helpful
-#bugbounty #lfi #infosec #recon #exploit #pentest #osint
+❤️ Give Star & Share if you found this helpful
+> #bugbounty #lfi #infosec #recon #exploit #pentest #osint
