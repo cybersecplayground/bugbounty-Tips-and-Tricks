@@ -10,4 +10,4 @@ Key Highlights:
 
 ⚠️ Warning: Unauthorized testing is illegal. Comply with bug bounty programs and local laws.
 
-[Read More...](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/SQLI/Master%20SQL%20Injection%20(SQLi)%20Attacks.md)
+1- [🔍 Bug Bounty Tip: Master SQL Injection (SQLi) Attacks!](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/SQLI/Master%20SQL%20Injection%20(SQLi)%20Attacks.md)
