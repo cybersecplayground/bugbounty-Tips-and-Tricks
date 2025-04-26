@@ -10,3 +10,6 @@
 1- [🛡 Bypass 403 & 401 HTTP Status Codes](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Bypass%20403%20%26%20401%20HTTP%20Status%20Codes.md)
 
 2- [🛠 LFI Bypass Techniques — From Filters to Null Bytes](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/LFI%20Bypass%20Techniques.md)
+
+3- [🚀 Bypassing File Upload Restrictions: Exploiting Extension Blacklists Like a Pro! 🔥](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Bypassing%20File%20Upload%20Restrictions.md)
+
