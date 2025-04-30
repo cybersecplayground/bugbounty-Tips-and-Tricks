@@ -71,4 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 **Stay vigilant. Stay secure.** 🔥
 
 1 - [📢 Information Disclosure — How It Happens and How to Find It](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/How%20It%20Happens%20and%20How%20to%20Find%20It.md)
+
 2 - [Information Disclosure — How It Happens and How to Find It](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/How%20It%20Happens%20and%20How%20to%20Find%20It.md)
