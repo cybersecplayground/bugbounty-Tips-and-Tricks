@@ -7,7 +7,7 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 ---
 
 ## 📌 Table of Contents
-1. [Scope Review](#1-scope-review)
+1. [Scope Review](#1.-Scope-Review-🌍)
 2. [Subdomain Enumeration](#2-subdomain-enumeration)
 3. [Alive Host Detection](#3-alive-host-detection)
 4. [Crawling Endpoints](#4-crawling-endpoints)
@@ -22,7 +22,7 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 
 ---
 
-## #1. Scope Review 🌍
+## 1. Scope Review 🌍
 Understand the rules before hacking.
 
 ```txt
