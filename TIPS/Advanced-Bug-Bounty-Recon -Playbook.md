@@ -7,18 +7,18 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 ---
 
 ## 📌 Table of Contents
-1. [Scope Review](#1.-Scope-Review-🌍)
-2. [Subdomain Enumeration](#2-subdomain-enumeration)
-3. [Alive Host Detection](#3-alive-host-detection)
-4. [Crawling Endpoints](#4-crawling-endpoints)
-5. [Visual Recon (Screenshots)](#5-visual-recon-screenshots)
-6. [Automated Vulnerability Scanning](#6-automated-vulnerability-scanning)
-7. [Tech Stack Fingerprinting](#7-tech-stack-fingerprinting)
-8. [Finding Low-Hanging Fruits](#8-finding-low-hanging-fruits)
-9. [URL & Parameter Discovery](#9-url--parameter-discovery)
-10. [Google Dorking](#10-google-dorking)
-11. [GitHub Recon](#11-github-recon)
-12. [Bonus: Mass Param Testing](#bonus-mass-param-testing)
+1. [Scope Review](#1-scope-review)
+2. Subdomain Enumeration
+3. Alive Host Detection
+4. Crawling Endpoints
+5. Visual Recon (Screenshots)]
+6. Automated Vulnerability Scanning
+7. Tech Stack Fingerprinting
+8. Finding Low-Hanging Fruits
+9. URL & Parameter Discovery
+10. Google Dorking
+11. GitHub Recon
+12. Bonus: Mass Param Testing
 
 ---
 
