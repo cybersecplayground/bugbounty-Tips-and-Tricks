@@ -22,7 +22,7 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 
 ---
 
-## 1. Scope Review 🌍
+## #1. Scope Review 🌍
 Understand the rules before hacking.
 
 ```txt
