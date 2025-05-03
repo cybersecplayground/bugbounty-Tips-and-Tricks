@@ -11,7 +11,7 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 2. [Subdomain Enumeration](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 3. [Alive Host Detection](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 4. [Crawling Endpoints](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
-5. [Visual Recon (Screenshots)]](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+5. [Visual Recon (Screenshots)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 6. [Automated Vulnerability Scanning](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 7. [Tech Stack Fingerprinting](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 8. [Finding Low-Hanging Fruits](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
