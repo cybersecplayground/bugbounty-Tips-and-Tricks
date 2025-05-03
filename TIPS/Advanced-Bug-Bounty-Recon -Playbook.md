@@ -7,18 +7,18 @@ Welcome to the **Ultimate Recon Pipeline** for serious bug bounty hunters. This 
 ---
 
 ## 📌 Table of Contents
-1. [Scope Review](#1-scope-review)
-2. Subdomain Enumeration
-3. Alive Host Detection
-4. Crawling Endpoints
-5. Visual Recon (Screenshots)]
-6. Automated Vulnerability Scanning
-7. Tech Stack Fingerprinting
-8. Finding Low-Hanging Fruits
-9. URL & Parameter Discovery
-10. Google Dorking
-11. GitHub Recon
-12. Bonus: Mass Param Testing
+1. [Scope Review](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+2. [Subdomain Enumeration](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+3. [Alive Host Detection](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+4. [Crawling Endpoints](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+5. [Visual Recon (Screenshots)]](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+6. [Automated Vulnerability Scanning](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+7. [Tech Stack Fingerprinting](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+8. [Finding Low-Hanging Fruits](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+9. [URL & Parameter Discovery](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+10. [Google Dorking](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+11. [GitHub Recon](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
+12. [Bonus: Mass Param Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md#1-scope-review-)
 
 ---
 
