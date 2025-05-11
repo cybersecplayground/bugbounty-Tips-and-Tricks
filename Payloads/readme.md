@@ -29,6 +29,8 @@ Use these payloads during penetration tests, bug bounty hunting, and security re
 
 > ⚠️ Warning: Use these payloads ethically and only on systems you have permission to test. Unauthorized access is illegal and unethical.
 
-1- [LFI_Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/LFI_Payloads.txt)
+1- [LFIPayloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/LFI_Payloads.txt)
 
-2- [rce_payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/rce_payloads.txt)
+2- [RCE payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/rce_payloads.txt)
+
+3- [XSS Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/XSS_Payload.txt)
