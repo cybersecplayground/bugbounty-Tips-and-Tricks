@@ -13,3 +13,4 @@
 
 3- [🚀 Bypassing File Upload Restrictions: Exploiting Extension Blacklists Like a Pro! 🔥](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Bypassing%20File%20Upload%20Restrictions.md)
 
+4- [🚨 HTML Sanitizer Bypass → XSS in Cloudflare-Protected Sites](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/HTML_Sanitizer_Bypass.md)
