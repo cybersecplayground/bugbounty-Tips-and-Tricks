@@ -34,3 +34,7 @@ Use these payloads during penetration tests, bug bounty hunting, and security re
 2- [RCE payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/rce_payloads.txt)
 
 3- [XSS Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/XSS_Payload.txt)
+
+4- [SSTI_Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/SSTI_Payloads.txt)
+
+5- [sql_payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/sql_payloads.txt)
