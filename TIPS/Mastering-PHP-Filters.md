@@ -1,4 +1,4 @@
-# Mastering PHP Filters & Wrappers for LFI to RCE
+# 🔥 Mastering PHP Filters & Wrappers for LFI to RCE
 
 PHP is one of the most widely used languages in web applications. Understanding its internal features like stream wrappers can help attackers go far beyond simple file inclusion vulnerabilities.
 
