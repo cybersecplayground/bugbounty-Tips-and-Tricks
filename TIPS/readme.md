@@ -32,3 +32,6 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 4 - 🐞 [Bug-Hunt Tips for New Hunters](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/bug_hunt_admin_panel_recon.md)
 
 5 - 🧩 [How to Collect GET-Based Parameters (Like a Pro)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/get_parameters_recon.md)
+
+6 - 🧠 [Bug Bounty Dorks to Discover Reward Programs](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Bug_Bounty_Dorks.md)
+
