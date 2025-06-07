@@ -35,3 +35,5 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 6 - 🧠 [Bug Bounty Dorks to Discover Reward Programs](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Bug_Bounty_Dorks.md)
 
+7 - 💥 [SSTI in Go Templates = Stored XSS?](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Stored-XSS-via-Go-SSTI.md)
+
