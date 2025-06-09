@@ -18,3 +18,5 @@
 5- [🚨 Advanced XSS WAF Bypass in JavaScript Context](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Advanced_XSS_WAF_Bypass_in_JavaScript%20_Context.md)
 
 6- [🔓 IDOR in Disguise – Bypass with .json Suffix](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/idor_json_bypass.md)
+
+7- [🚨 New WAF Bypass for Akamai & Cloudflare](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Waf-Bypass-Akamai-Cloudflare.md)
