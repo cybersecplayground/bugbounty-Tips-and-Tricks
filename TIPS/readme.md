@@ -37,3 +37,6 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 7 - 💥 [SSTI in Go Templates = Stored XSS?](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Stored-XSS-via-Go-SSTI.md)
 
+8 - 💡 [Bug Bounty Pro Tip: Uncover Hidden Subdomains via /cdn-cgi/trace](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/cdn-cgi-trace-recon-method.md)
+
+
