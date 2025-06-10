@@ -39,4 +39,7 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 8 - 💡 [Bug Bounty Pro Tip: Uncover Hidden Subdomains via /cdn-cgi/trace](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/cdn-cgi-trace-recon-method.md)
 
+9 - 🔍 [Automating CORS Vulnerabilities with Corsy](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Automating-Cors-Corsy.md)
+
+
 
