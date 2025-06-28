@@ -41,5 +41,5 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 9 - 🔍 [Automating CORS Vulnerabilities with Corsy](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Automating-Cors-Corsy.md)
 
-
+10 - 🔓 [Account Takeover via Email Injection Tricks](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/email-injection-based-account-takeover-technique.md)
 
