@@ -7,4 +7,6 @@
 - **Real-World Examples** (From disclosed reports and CTFs)
 - **Advanced Execution Tricks** (CORS bypasses, service worker hijacking)
 
-1- [🔥 Masterclass XSS Exploits ](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/Masterclass%20XSS%20Exploits.md)
+1 - [🔥 Masterclass XSS Exploits ](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/Masterclass%20XSS%20Exploits.md)
+
+2 - [🚨 XSS to Account Takeover via Cookie Theft 🍪](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/XSS-to-Account-Takeover-via-Cookie-Theft.md)
