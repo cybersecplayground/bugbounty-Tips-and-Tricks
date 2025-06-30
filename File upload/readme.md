@@ -30,7 +30,9 @@ This repository contains a collection of techniques, payloads, and tricks relate
    - `image.jpg.php`, `file.php.jpg`
 
 ## 🔥 Content Section
-1 - [🧠 Unsafe File Upload → MIME Type Bypass](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/unsafe-file-upload.md)
+1 - [📂 Beginner's Guide (Part 1 of File Upload Week): File Upload Vulnerability](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/file_upload_basics.md)
+
+2 - [🧠 Unsafe File Upload → MIME Type Bypass](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/unsafe-file-upload.md)
 
 ## Disclaimer
 
