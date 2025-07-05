@@ -38,7 +38,7 @@ This repository contains a collection of techniques, payloads, and tricks relate
 
 4 - [🔐 File Upload Bypass Techniques](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/file_upload_basics-3.md)
 
-5 - [# 🔓 File Upload Bypass Techniques (Part 2 )  – Ultimate Tricklist for Hackers](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/file_upload_basics-4.md)
+5 - [🔓 File Upload Bypass Techniques (Part 2 )  – Ultimate Tricklist for Hackers](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/File%20upload/file_upload_basics-4.md)
 ## Disclaimer
 
 These techniques should only be used on systems you have permission to test. Always get proper authorization before testing file upload functionality.
