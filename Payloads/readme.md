@@ -29,12 +29,14 @@ Use these payloads during penetration tests, bug bounty hunting, and security re
 
 > ⚠️ Warning: Use these payloads ethically and only on systems you have permission to test. Unauthorized access is illegal and unethical.
 
-1- [LFIPayloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/LFI_Payloads.txt)
+1- [LFI Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/LFI_Payloads.txt)
 
 2- [RCE payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/rce_payloads.txt)
 
 3- [XSS Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/XSS_Payload.txt)
 
-4- [SSTI_Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/SSTI_Payloads.txt)
+4- [SSTI Payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/SSTI_Payloads.txt)
 
-5- [sql_payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/sql_payloads.txt)
+5- [sql payloads](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/sql_payloads.txt)
+
+6- [file upload extentions php](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Payloads/file_upload_extentions-php.txt)
