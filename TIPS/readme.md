@@ -43,6 +43,7 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 10 - 🔓 [Account Takeover via Email Injection Tricks](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/email-injection-based-account-takeover-technique.md)
 
-11 - [🧠 Zip Slip → Arbitrary File Write Exploit](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/zip_slip_exploit.md)
+11 - 🧠 [Zip Slip → Arbitrary File Write Exploit](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/zip_slip_exploit.md)
+
 
 
