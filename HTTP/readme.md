@@ -11,6 +11,12 @@ This folder contains a collection of useful techniques for testing HTTP-related 
 - **Protocol Vulnerabilities** - HTTP protocol-specific weaknesses  
 - **Bypass Techniques** - Methods to bypass security controls  
 
+## List of Contents
+- 🧠 [HTTP Header Injection → Redirect Abuse & Response Splitting](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/HTTP/HTTP-Header-Injection.md)
+
+- 🚨 [Bug Bounty Tip: HTTP Downgrading Attack!](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/HTTP/HTTP%20Downgrading%20Attack.md) 
+
+
 
 ⚠️ **Important**:  
 - Use these techniques only on systems you have permission to test  
