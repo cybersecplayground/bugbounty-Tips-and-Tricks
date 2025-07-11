@@ -41,7 +41,7 @@ Always validate and encode user input **before** inserting into HTTP headers!
 
 ---
 
-📢 Stay ahead of the game — follow **@cybersecplayground** for daily exploits, CVEs, and bug bounty tactics.
+📢 Stay ahead of the game — follow [**@cybersecplayground**](https://t.me/cybersecplayground) for daily exploits, CVEs, and bug bounty tactics.
 
 ---
 
