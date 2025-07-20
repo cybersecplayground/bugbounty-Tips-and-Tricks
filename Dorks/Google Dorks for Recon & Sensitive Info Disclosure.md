@@ -28,6 +28,7 @@ intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
 intitle:"index of" "MySQL-Router"
 intitle:"index of" "owncloud/config/*"
 site:*.target.com "@gmail.com"
+site:pastebin.com "target.com"
 ```
 
 > ⚠️ **Use responsibly.** These dorks may lead to sensitive systems or internal files. Only test on authorized targets!
