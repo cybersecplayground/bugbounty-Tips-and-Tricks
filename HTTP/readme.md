@@ -18,6 +18,8 @@ This folder contains a collection of useful techniques for testing HTTP-related 
 
 - 📌 [Host Header Injection – Cache Poisoning Attack Vector](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/HTTP/Host%20Header%20Injection%20%E2%80%93%20Cache%20Poisoning%20Attack%20Vector.md)
 
+- 🔥 [HTTP Parameter Pollution (HPP)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/HTTP/HTTP%20Parameter%20Pollution%20(HPP).md) 
+
 
 ⚠️ **Important**:  
 - Use these techniques only on systems you have permission to test  
