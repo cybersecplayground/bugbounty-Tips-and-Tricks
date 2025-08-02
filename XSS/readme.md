@@ -12,3 +12,5 @@
 2 - [🚨 XSS to Account Takeover via Cookie Theft 🍪](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/XSS-to-Account-Takeover-via-Cookie-Theft.md)
 
 3 - [📁 File Upload XSS – Beyond SVGs](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/File%20Upload%20XSS%20%E2%80%93%20Beyond%20SVGs.md)
+
+4 - [🧠 Unicode-Based XSS Payloads – Ancient Scripts vs. Modern Filters](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/Unicode-Based%20XSS%20Payloads.md)
