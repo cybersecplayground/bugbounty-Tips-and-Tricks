@@ -13,3 +13,5 @@
 2- 🚨 [Advanced RCE Techniques via File Extensions, PHP Uploads & SSTI [Part 1/2]](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/RCE/advanced_rce_part1.md)
 
 3- 🚨 [Advanced RCE Techniques via File Extensions, PHP Uploads & SSTI [Part 2/2]](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/RCE/advanced_rce_part2.md)
+
+4- 🚨 [Blind RCE File Exfiltration via curl ](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/RCE/blind-rce-file-exfiltration.md)
