@@ -20,3 +20,5 @@
 6- [🔓 IDOR in Disguise – Bypass with .json Suffix](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/idor_json_bypass.md)
 
 7- [🚨 New WAF Bypass for Akamai & Cloudflare](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Waf-Bypass-Akamai-Cloudflare.md)
+
+8- [🚀 Next.js WAF Bypass: Cookie Reflection Exploit](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Next.js%20WAF%20Bypass.md)
