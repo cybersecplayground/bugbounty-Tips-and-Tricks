@@ -1,4 +1,5 @@
 # 50+ Parameters Devs Actually Use (and Hunters Forget)
+![50+ Parameters Devs Actually Use (and Hunters Forget)](https://github.com/user-attachments/assets/7db137fe-f485-4a9f-99ef-2b4f9aea40da)
 
 A curated list of real-world parameters that can be abused for privilege escalation, SSRF, information disclosure, and other vulnerabilities. Move beyond basic `id` fuzzing.
 
