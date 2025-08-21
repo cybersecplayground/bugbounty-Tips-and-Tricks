@@ -137,5 +137,7 @@ http://burpcollaborator.net
 *   **Parameter allowlisting is crucial.** Sanitize and validate all input, including query and body parameters, not just those you explicitly use.
 *   Unused parameters can be a silent path to privilege escalation. Audit them regularly.
 
+🔗 Wordlist : [LINK](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/wordlist/bugbounty_params_wordlist.txt)
+
 📢 Follow @CyberSecPlayground on Telegram for more daily Linux hacking lessons, red team tips, and pentesting tricks!
 
