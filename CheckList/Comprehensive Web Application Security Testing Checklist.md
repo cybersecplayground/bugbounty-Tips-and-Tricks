@@ -232,15 +232,15 @@ This checklist provides a structured approach to web application security testin
 | OWASP Top 10 2023 Category | Checklist Section |
 |-----|-------|	
 | A01: Broken Access Control | [3.3 Authorization Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#33-authorization-testing) |
-| A02: Cryptographic Failures | 2.1 SSL/TLS Testing, 4.2 Input Validation |
-| A03: Injection | 4.1 Injection Testing |
-| A04: Insecure Design | 5. Business Logic Testing |
-| A05: Security Misconfiguration | 2. Configuration & Deployment Testing |
-| A06: Vulnerable Components | 7.2 Third-Party Components |
-| A07: Identification Failures | 3.1 Authentication Testing |
-| A08: Software Integrity Failures | 7.2 Third-Party Components |
-| A09: Security Logging & Monitoring Failures | 8.2 Reporting |
-| A10: Server-Side Request Forgery | 4.3 Other Input Validation Tests |
+| A02: Cryptographic Failures | [2.1 SSL/TLS Testing, 4.2 Input Validation](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#21-infrastructure-configuration) |
+| A03: Injection | [4.1 Injection Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#41-injection-testing) |
+| A04: Insecure Design | [5. Business Logic Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#phase-5-business-logic-testing) |
+| A05: Security Misconfiguration | [2. Configuration & Deployment Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#phase-2-configuration--deployment-testing) |
+| A06: Vulnerable Components | [7.2 Third-Party Components](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#phase-2-configuration--deployment-testing) |
+| A07: Identification Failures | [3.1 Authentication Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#31-authentication-testing) |
+| A08: Software Integrity Failures | [7.2 Third-Party Components](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#72-third-party-components) |
+| A09: Security Logging & Monitoring Failures | [8.2 Reporting](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#82-reporting) |
+| A10: Server-Side Request Forgery | [4.3 Other Input Validation Tests](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#43-other-input-validation-tests) |
 --- 
 
 ## Conclusion
