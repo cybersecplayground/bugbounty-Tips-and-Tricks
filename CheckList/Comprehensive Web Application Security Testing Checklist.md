@@ -231,7 +231,7 @@ This checklist provides a structured approach to web application security testin
 ## Appendix: OWASP Top 10 2023 Mapping
 | OWASP Top 10 2023 Category | Checklist Section |
 |-----|-------|	
-| A01: Broken Access Control | 3.3 Authorization Testing |
+| A01: Broken Access Control | [3.3 Authorization Testing](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CheckList/Comprehensive%20Web%20Application%20Security%20Testing%20Checklist.md#33-authorization-testing) |
 | A02: Cryptographic Failures | 2.1 SSL/TLS Testing, 4.2 Input Validation |
 | A03: Injection | 4.1 Injection Testing |
 | A04: Insecure Design | 5. Business Logic Testing |
