@@ -24,3 +24,6 @@
 8- [🚀 Next.js WAF Bypass: Cookie Reflection Exploit](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/Next.js%20WAF%20Bypass.md)
 
 9- [🚀 Bug Bounty Tip – Bypass Rate Limits with Race Conditions & Header Tricks](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/rate-limit-bypass.md)
+
+10- [🔓 Captcha Bypass Techniques](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/captcha-bypass-techniques.md)
+
