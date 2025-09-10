@@ -2,6 +2,9 @@
 ![Next js Middleware SSRF via Header Injection](https://github.com/user-attachments/assets/13addb07-0969-4023-988a-900c531dd1d7)
 
 A security issue in **Next.js Middleware** can allow **Server-Side Request Forgery (SSRF)** if certain headers are not properly validated.
+Next.js introduced Middleware to intercept requests before they hit the final route. It uses special headers (like X-Middleware-Rewrite, X-Middleware-Next, etc.) to control routing.
+
+If an application trusts user-supplied headers without sanitization, attackers can abuse this mechanism to rewrite requests to attacker-controlled hosts — effectively turning it into Server-Side Request Forgery (SSRF).
 
 ---
 
@@ -18,7 +21,9 @@ X-Middleware-Rewrite: http://test.com
 
 ### ✅ Explanation
 If the application blindly trusts the `X-Middleware-Rewrite` header, the middleware will **fetch attacker-controlled URLs**, leading to SSRF.
-
+- X-Middleware-Rewrite tells the Next.js server where to send the request.   
+- If not validated, it forwards traffic to http://test.com (your OOB/interaction server).   
+- Boom → you can force the server to connect anywhere (internal hosts, metadata services, cloud instances).
 ---
 
 ## 🎯 Impact
