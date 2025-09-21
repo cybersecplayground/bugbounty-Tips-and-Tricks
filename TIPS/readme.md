@@ -45,5 +45,6 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 11 - 🧠 [Zip Slip → Arbitrary File Write Exploit](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/zip_slip_exploit.md)
 
+12 - 📣 [Weird Endpoint Behavior — What it tells you](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/weird-endpoint-behavior.md)
 
 
