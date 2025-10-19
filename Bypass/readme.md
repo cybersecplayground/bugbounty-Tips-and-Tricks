@@ -28,3 +28,6 @@
 10- [🔓 Captcha Bypass Techniques](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/captcha-bypass-techniques.md)
 
 11- [🎯 Why a 500 Error is a Bug Hunter's Signal](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/500-error-hunting.md)
+
+12- [🔥 4-Step API Testing Methodology
+](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/api-testing-methodology.md)
