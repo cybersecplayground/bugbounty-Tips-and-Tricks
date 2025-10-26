@@ -25,9 +25,9 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 1 - 🔍 [Advanced Bug Bounty Recon Playbook (2025)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook.md)
 
-2 - 🔥 [Mastering PHP Filters & Wrappers for LFI to RCE](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Mastering-PHP-Filters.md)
+2 - [🚨 PART 2 — ADVANCED BUG BOUNTY RECON PLAYBOOK](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook-Part-2.md)
 
-3 - [🚨 PART 2 — ADVANCED BUG BOUNTY RECON PLAYBOOK](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Advanced-Bug-Bounty-Recon%20-Playbook-Part-2.md)
+3 - 🔥 [Mastering PHP Filters & Wrappers for LFI to RCE](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/Mastering-PHP-Filters.md)
 
 4 - 🐞 [Bug-Hunt Tips for New Hunters](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/bug_hunt_admin_panel_recon.md)
 
