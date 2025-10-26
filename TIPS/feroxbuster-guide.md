@@ -1,5 +1,6 @@
 # 🔥 What is Feroxbuster?
-<img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/ee0e76f6-785a-46bb-ad83-d7735ef11500" />
+![What is Feroxbuster](https://github.com/user-attachments/assets/469e5bdb-9fa5-41af-9489-24cd9ea15502)
+
 
 Feroxbuster is a fast, recursive content discovery tool written in Rust. It's designed to brute-force directories and files on web servers, making it essential for bug bounty hunting and penetration testing.
 
