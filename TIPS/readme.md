@@ -47,4 +47,4 @@ Use responsibly on authorized targets. Always comply with program rules and laws
 
 12 - 📣 [Weird Endpoint Behavior — What it tells you](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/weird-endpoint-behavior.md)
 
-
+13 - 🔥 [Feroxbuster Guide](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/TIPS/feroxbuster-guide.md)
