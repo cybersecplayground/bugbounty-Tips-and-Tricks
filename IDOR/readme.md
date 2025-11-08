@@ -13,6 +13,8 @@ Real-World Examples: Curated examples from bug bounty reports and pentests.
 > Found a cool IDOR technique or bypass? Feel free to submit a Pull Request!
 
 ## Content List : 
-1 - [🔥 What is IDOR?](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/IDOR/idor-guide.md)
+1 - [What is IDOR?](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/IDOR/idor-guide.md)
+
+2 - [IDOR Part 2 — Advanced Bypass Techniques](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/IDOR/idor-part2-advanced.md)
 
 Happy Hunting!
