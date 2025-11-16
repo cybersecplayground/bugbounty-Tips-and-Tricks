@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "input": {"FUZZ": "550e8400-e29b-41d4-a716-446655440001"},
+      "status": 200,
+      "length": 1250,
+      "words": 45,
+      "lines": 12,
+      "content": "{\"user\": {\"id\": \"550e8400-e29b-41d4-a716-446655440001\", \"email\": \"user1@company.com\", \"profile\": {\"phone\": \"555-0101\", \"address\": \"123 Main St\"}, \"api_key\": \"sk_live_abc123def456ghi789\"}}"
+    },
+    {
+      "input": {"FUZZ": "550e8400-e29b-41d4-a716-446655440002"},
+      "status": 200,
+      "length": 1340,
+      "words": 48,
+      "lines": 13,
+      "content": "{\"user\": {\"id\": \"550e8400-e29b-41d4-a716-446655440002\", \"email\": \"admin@company.com\", \"role\": \"administrator\", \"profile\": {\"phone\": \"555-0102\", \"ssn\": \"123-45-6789\"}, \"permissions\": [\"read\", \"write\", \"delete\"]}}"
+    },
+    {
+      "input": {"FUZZ": "550e8400-e29b-41d4-a716-446655440003"},
+      "status": 200,
+      "length": 980,
+      "words": 32,
+      "lines": 8,
+      "content": "{\"user\": {\"id\": \"550e8400-e29b-41d4-a716-446655440003\", \"email\": \"john.doe@example.com\", \"profile\": {\"phone\": \"555-0103\"}, \"credit_card\": \"4111-1111-1111-1111\"}}"
+    },
+    {
+      "input": {"FUZZ": "100"},
+      "status": 200,
+      "length": 450,
+      "words": 15,
+      "lines": 5,
+      "content": "{\"order\": {\"id\": 100, \"user_id\": 1, \"total\": 99.99, \"items\": [\"product_a\", \"product_b\"]}}"
+    },
+    {
+      "input": {"FUZZ": "101"},
+      "status": 200,
+      "length": 520,
+      "words": 18,
+      "lines": 6,
+      "content": "{\"order\": {\"id\": 101, \"user_id\": 2, \"total\": 149.99, \"items\": [\"product_c\"], \"discount_code\": \"SUMMER2024\"}}"
+    },
+    {
+      "input": {"FUZZ": "999"},
+      "status": 404,
+      "length": 45,
+      "words": 3,
+      "lines": 1,
+      "content": "{\"error\": \"User not found\"}"
+    },
+    {
+      "input": {"FUZZ": "00000000-0000-0000-0000-000000000000"},
+      "status": 200,
+      "length": 2100,
+      "words": 75,
+      "lines": 20,
+      "content": "{\"system\": {\"id\": \"00000000-0000-0000-0000-000000000000\", \"config\": {\"database_url\": \"postgresql://admin:password123@localhost:5432/prod\", \"aws_key\": \"AKIAIOSFODNN7EXAMPLE\", \"aws_secret\": \"wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\"}, \"debug_mode\": true}}"
+    },
+    {
+      "input": {"FUZZ": "11111111-1111-1111-1111-111111111111"},
+      "status": 403,
+      "length": 120,
+      "words": 8,
+      "lines": 2,
+      "content": "{\"error\": \"Access denied\", \"code\": \"FORBIDDEN\"}"
+    },
+    {
+      "input": {"FUZZ": "user_123"},
+      "status": 200,
+      "length": 680,
+      "words": 25,
+      "lines": 7,
+      "content": "{\"user\": {\"username\": \"user_123\", \"email\": \"test123@test.com\", \"preferences\": {\"theme\": \"dark\", \"language\": \"en\"}}}"
+    },
+    {
+      "input": {"FUZZ": "admin"},
+      "status": 200,
+      "length": 890,
+      "words": 30,
+      "lines": 9,
+      "content": "{\"user\": {\"username\": \"admin\", \"email\": \"superadmin@company.com\", \"role\": \"super_admin\", \"access_level\": 999, \"mfa_secret\": \"ABCDEFG123456\"}}"
+    },
+    {
+      "input": {"FUZZ": "456"},
+      "status": 500,
+      "length": 320,
+      "words": 12,
+      "lines": 4,
+      "content": "{\"error\": \"SQL Exception: Invalid user ID\", \"query\": \"SELECT * FROM users WHERE id = 456\"}"
+    },
+    {
+      "input": {"FUZZ": "test-account"},
+      "status": 200,
+      "length": 560,
+      "words": 20,
+      "lines": 6,
+      "content": "{\"user\": {\"username\": \"test-account\", \"email\": \"qa@company.com\", \"test_data\": true, \"password_reset_token\": \"reset_xyz789_abc123\"}}"
+    }
+  ],
+  "config": {
+    "command": "ffuf -w uuids.txt -u https://api.company.com/v1/users/FUZZ -o results.json -of json",
+    "time": "2024-01-15T10:30:00Z"
+  }
+}
