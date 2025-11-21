@@ -170,4 +170,4 @@ ffuf -w service_names.txt -u http://internal-network/FUZZ
 
 🔔 Follow @cybersecplayground for IoT Security Week starting Monday!
 
-Like & Share if you found new IDOR attack surfaces! 🚀
+✨ Star the repo if you found new IDOR attack surfaces! 🚀
