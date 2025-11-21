@@ -174,6 +174,6 @@ def check_access(user_context, resource_id):
 
 ---
 
-## ⭐ Like & Share if you're ready to hunt IDOR like a pro!
+## ⭐ Star the repo if you're ready to hunt IDOR like a pro!
 
 #IDOR #BugBounty #WebSecurity #Automation #CyberSecurity #Hacking #PenTesting #InfoSec
