@@ -1,4 +1,4 @@
-# 🎓 Understanding PII and Initial Discovery Techniques (Part 1/3) 🎓
+# 🎓 Understanding PII and Initial Discovery Techniques (Part 1/3) 
 <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/51ddfb54-5e98-43ca-84ce-6d9d9b8a2ae4" />
 
 Personally Identifiable Information (PII) is any data that can identify an individual. In security testing and bug bounty hunting, finding exposed PII is a critical high-impact discovery. This series will cover discovery, validation, and reporting across three parts.
