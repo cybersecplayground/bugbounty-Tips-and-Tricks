@@ -16,3 +16,5 @@
 4 - [🧠 Unicode-Based XSS Payloads – Ancient Scripts vs. Modern Filters](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/Unicode-Based%20XSS%20Payloads.md)
 
 5 - [Advanced XSS Bypass for Akamai WAF](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/Advanced_XSS_Bypass_Akamai_WAF.md)
+
+6 - [🎓 XSS WAF Bypass: 3 Tricks to Beat Alert Blockers 🎓](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/XSS/XSS_WAF_Bypass_3_Tricks.md)
