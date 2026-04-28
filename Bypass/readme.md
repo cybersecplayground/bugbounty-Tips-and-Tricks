@@ -31,3 +31,5 @@
 
 12- [🔥 4-Step API Testing Methodology
 ](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/api-testing-methodology.md)
+
+13- [🎓 COMMON HTTP ERROR CODES & Bypass Techniques 🎓](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Bypass/http_errors_and_bypass_methods.md)
