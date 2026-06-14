@@ -73,3 +73,11 @@ This project is licensed under the [MIT License](LICENSE).
 1 - [📢 Information Disclosure — How It Happens and How to Find It](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/How%20It%20Happens%20and%20How%20to%20Find%20It.md)
 
 2 - [🚨 Information Disclosure: The Silent Killer in Cybersecurity 🚨](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/The%20Silent%20Killer%20in%20Cybersecurity.md)
+
+### Understanding phpinfo()
+3 - [🎓 Part 1/3: Understanding phpinfo() - The Accidental Goldmine 🎓](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/Understanding_phpinfo_part1.md)
+
+4 - [🎓 Part 2/3: Finding Exposed phpinfo() Files - Reconnaissance Techniques 🎓](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/Understanding_phpinfo_part2.md)
+
+5 - [🎓 Part 3/3: Exploiting phpinfo() - Turning Information into Compromise 🎓](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/Information%20Disclosure%20/Understanding_phpinfo_part3.md)
+
