@@ -155,4 +155,4 @@ While the direct impact is information disclosure only, the practical impact can
 
 #phpinfo #Exploitation #BugBounty #RCE #WebSecurity #PenTesting #InfoDisclosure #RedTeam
 
-### ⚠️ Final Pro Tip: When you find a phpinfo() page, take screenshots of everything before it gets patched. The information can be used for months afterward to identify vulnerable components!
+#### ⚠️ Final Pro Tip: When you find a phpinfo() page, take screenshots of everything before it gets patched. The information can be used for months afterward to identify vulnerable components!
