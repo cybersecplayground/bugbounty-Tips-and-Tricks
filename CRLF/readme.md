@@ -5,7 +5,7 @@
 ## 📚 Repository Contents
 
 *   **Part 1:** [Understanding CRLF Injection (Basics, HTTP Response Splitting)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CRLF/CRLF_Injection_Part_1.md)
-*   **Part 2:** Advanced CRLF Bypass Techniques (Filter evasion, WAF bypass) - Coming Soon
+*   **Part 2:** [Advanced CRLF Bypass Techniques (Filter evasion, WAF bypass)](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks/blob/main/CRLF/CRLF_Injection_Part_2.md) 
 *   **Part 3:** Real-World Exploitation & Reporting (Attack chains, bug bounty reports) - Coming Soon
 
 ## ⚡️ Real-World Attack Chains
