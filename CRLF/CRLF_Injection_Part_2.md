@@ -1,4 +1,4 @@
-# 🎓 CRLF Injection - Advanced Bypass Techniques ( P 2/3 )🎓
+# CRLF Injection - Advanced Bypass Techniques ( P 2/3 )
 <img width="1200" height="570" alt="Advanced Bypass Techniques" src="https://github.com/user-attachments/assets/3dad2bb3-ab26-4e95-8307-d4a13a77b1e2" />
 
 
